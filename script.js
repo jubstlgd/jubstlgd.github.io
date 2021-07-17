@@ -17,7 +17,7 @@ function clicar_gosto() {
     div.innerHTML = `<ul>
     <li>Kpop</li>
     <li>Doramas</li>
-    <li>Gesnhin</li>
+    <li>Genshin</li>
     <li>Gatinhos</li>
     <li>Cozinhar</li>
     </ul>`
@@ -54,7 +54,7 @@ function gosto(){
     div.innerHTML = `<ul>
     <li>Kpop</li>
     <li>Doramas</li>
-    <li>Gesnhin</li>
+    <li>Genshin</li>
     <li>Gatinhos</li>
     <li>Cozinhar</li>
     </ul>`
