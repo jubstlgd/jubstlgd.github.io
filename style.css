@@ -5,13 +5,13 @@ body {
 }
 
 h1 {
-    padding-left: 11px;
-    padding-bottom: 20px;
+    margin-left: 11px;
+    margin-bottom: 20px;
 }
 section {
     border: 50px;
     width: 360px;
-    height: auto;
+    height: 175px;
     border-radius: 15px;
     padding: 5px;
     background-color: rgb(255, 116, 139);
@@ -19,12 +19,15 @@ section {
     margin: auto;
     margin-top: 150px;
 }
-img {
+img#icon {
+    border-style: solid;
+    border-color: rgb(60, 60, 60);
+    border-radius: 5px;
     width: 75px;
     height: auto;
-    padding-inline-start: 280px;
+    margin-inline-start: 270px;
     display: block;
-    padding-top: 10px;
+    margin-top: 10px;
     position: absolute;
 }
 div#info {
@@ -39,24 +42,24 @@ div#info {
 }
 
 div#dados {
-    padding-left: 10px;
-    
+    margin-left: 10px;
+    padding-bottom: 10px;
 }
 div#coisas {
-    text-decoration: underline;
-    padding: 3px;
-    padding-top: 10px;
-    padding-left: 10px;
-    padding-bottom: 5px;
+    
+    margin: 3px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    cursor: pointer;
 }
 
-
 span#nao {
-    padding-left: 25px;
+    margin-left: 25px;
 }
 
 span#casinhas {
-    padding-left: 25px;
+    margin-left: 25px;
 }
 
 a {
